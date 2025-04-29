@@ -1,0 +1,9 @@
+Thie folder is provided by foxglove/rosmsg-msgs-common
+
+https://github.com/foxglove/rosmsg-msgs-common
+
+May consider to wrap it up as a Siwft package.
+
+The original ROS2 interfaces are defined at
+
+https://github.com/ros2/common_interfaces.git

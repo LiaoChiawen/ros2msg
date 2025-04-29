@@ -1,0 +1,18 @@
+#straps_msgs
+
+builtin_interfaces/Time stamp
+
+float32 clock
+string team
+string user
+int32 severe_hemorrhage_remaining
+int32 respiratory_distress_remaining
+int32 heart_rate_remaining
+int32 respiratory_rate_remaining
+int32 trauma_head_remaining
+int32 trauma_torso_remaining
+int32 trauma_lower_ext_remaining
+int32 trauma_upper_ext_remaining
+int32 alertness_ocular_remaining
+int32 alertness_verbal_remaining
+int32 alertness_motor_remaining
